@@ -1,0 +1,2 @@
+# awesome
+Awesome SPIP Plugin
